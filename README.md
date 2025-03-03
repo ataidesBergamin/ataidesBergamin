@@ -1,7 +1,5 @@
 <h1>👋 &nbsp;Olá, eu sou o Ataídes, um desenvolvedor front-end gosto muito de programar!</h1>
-<p align="center">
-@@ -10,9 +10,11 @@
-
+<p align="center"> 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; I started to like programming at the age of 17, when I was taking an electronics technician course and had my first contact with programming logic, right away I felt that this was what I wanted, because what was difficult for others was easy for me. However, life followed other paths for me and I ended up moving away from programming, only a few years later I had the opportunity to return to programming. Now I feel ready and prepared to code a lot of code.
