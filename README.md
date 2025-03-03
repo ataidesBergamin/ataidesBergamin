@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1>👋 &nbsp;Hi, I'm Ataídes, a passionate front-end developer.</h1>
 
 <!--
 **ataidesBergamin/ataidesBergamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
